@@ -25,4 +25,4 @@ I enjoy improving my coding skills, and building projects that make a difference
 - Email: jane.eloundou@gmail.com
 
 ---
-⭐️ From jane-ahone(https://github.com/YourGitHubUsername)
+⭐️ From jane-ahone(https://github.com/jane-ahone)
