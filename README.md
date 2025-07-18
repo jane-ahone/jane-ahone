@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Jane Ahone Eloundou
 
 ## 🚀 About Me
-I'm a passionate Frontend Developer based in Buea, Cameroon.  
+I'm a Frontend Developer based in Buea, Cameroon.  
 I specialize in building responsive, accessible, and intuitive web applications using modern frontend technologies.  
 I love solving real-world problems with clean code, thoughtful design, and a strong focus on user experience.
 
