@@ -43,7 +43,7 @@ DevLinks is a modern, responsive link-sharing web application that allows users 
 - Advanced TypeScript Patterns  
 - React Testing Library & Jest  
 - UI/UX Design & Accessibility  
-- Custom Hooks & Code Splitting  
+- Performance Monitoring & Code Splitting  
 
 ---
 
