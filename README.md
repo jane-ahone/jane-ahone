@@ -22,7 +22,7 @@ I love solving real-world problems with clean code, thoughtful design, and a str
 ### 🧰 Tools & Workflow
 - Figma, VS Code, GitHub, Git
 - ESLint, Prettier, Postman
-- Zustand, Context API, React Hooks
+- Context API, React Hooks
 - Firebase, Vercel, Netlify, GitHub Actions
 
 ---
