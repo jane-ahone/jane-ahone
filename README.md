@@ -29,7 +29,7 @@ I love solving real-world problems with clean code, thoughtful design, and a str
 
 ## 🧩 Featured Projects
 
-### 🔗 [DevLinks Profile Management Platform](https://github.com/jane-ahone/devlinks-platform)
+### 🔗 [DevLinks Profile Management Platform](https://link-share-six.vercel.app/)
 
 DevLinks is a modern, responsive link-sharing web application that allows users to showcase their online presence through a customizable public profile.
 
