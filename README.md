@@ -1,9 +1,9 @@
-# 👋 Hello, I'm Jane Ahone Eloundou
+# 👋 Hello, my name is I'm Jane Ahone Eloundou
 
-## 🚀 About Me
-I'm a Frontend Developer based in Buea, Cameroon.  
-I specialize in building responsive, accessible, and intuitive web applications using modern frontend technologies.  
-I love solving real-world problems with clean code, thoughtful design, and a strong focus on user experience.
+**Product-Minded Software Engineer | Buea, Cameroon**
+
+I build responsive, intuitive web applications, focusing on user experience, scalable code, and solving real-world problems. 
+I combine engineering and design to ensure what I build actually delivers tangible value to users.
 
 ---
 
@@ -29,21 +29,25 @@ I love solving real-world problems with clean code, thoughtful design, and a str
 
 ## 🧩 Featured Projects
 
+### 🔗 [Mbeka Radio](https://mbekaradio.online/)
+
+Mbeka Radio is a browser-based serious game for public legal education in Cameroon; players host a radio call-in show, advising callers on their real rights during police stops, arrests, and detention.
+
+> _Tech used: SvelteKit, Hono, PostgreSQL, Drizzle ORM, ElevenLabs TTS_
+
 ### 🔗 [DevLinks Profile Management Platform](https://link-share-six.vercel.app/)
 
 DevLinks is a modern, responsive link-sharing web application that allows users to showcase their online presence through a customizable public profile.
 
-> _Tech used: React.js, TypeScript, Context API, TailwindCSS, Firebase, Vercel_
+> _Tech used: React.js, TypeScript, Context API, TailwindCSS, Firebase, Vercel _
 
 ---
 
 
 ## 🌱 Currently Learning
 
-- Advanced TypeScript Patterns  
-- React Testing Library & Jest  
-- UI/UX Design & Accessibility  
-- Performance Monitoring & Code Splitting  
+- Advanced Data Structures & Algorithms 
+- System Design 
 
 ---
 
