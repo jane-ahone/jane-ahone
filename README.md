@@ -1,4 +1,4 @@
-# 👋 Hello, my name is I'm Jane Ahone Eloundou
+# 👋 Hello, I'm Jane Ahone Eloundou
 
 **Product-Minded Software Engineer | Buea, Cameroon**
 
