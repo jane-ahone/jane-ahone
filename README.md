@@ -39,7 +39,7 @@ Mbeka Radio is a browser-based serious game for public legal education in Camero
 
 DevLinks is a modern, responsive link-sharing web application that allows users to showcase their online presence through a customizable public profile.
 
-> _Tech used: React.js, TypeScript, Context API, TailwindCSS, Firebase, Vercel _
+> _Tech used: React.js, TypeScript, Context API, TailwindCSS, Firebase, Vercel_
 
 ---
 
