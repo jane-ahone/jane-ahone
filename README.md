@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Jane Ahone Eloundou
+## 👋 Hello, I'm Jane Ahone Eloundou
 
-## Product-Minded Software Engineer | Buea, Cameroon**
+# A Product-Minded Software Engineer | Buea, Cameroon
 
 I build responsive, intuitive web applications, focusing on user experience, scalable code, and solving real-world problems. 
 I combine engineering and design to ensure what I build actually delivers tangible value to users.
